@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "David Khang",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "khangnguyen.adelaide@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://khang2107.github.io/al-folio/",
+    "summary": " I am a software engineer with a passion for solving complex problems. I have experience in developing web applications, mobile applications, and backend services. I am always looking for new challenges and opportunities to learn new technologies.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
