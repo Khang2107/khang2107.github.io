@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: khang2107 # your GitHub user name
-linkedin_username: https://www.linkedin.com/in/davidkhang/ # your LinkedIn user name
+linkedin_username: davidkhang # your LinkedIn user name
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
