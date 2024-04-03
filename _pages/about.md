@@ -9,6 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Software Engineer</p>
+    <p>[linkedin.com/in/davidkhang](https://www.linkedin.com/in/davidkhang/)</p>
+    <p>khangnguyen.adelaide@gmail.com</p>
     <p>Adelaide, SA 5000</p>
 
 news: true # includes a list of news items
