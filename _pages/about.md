@@ -6,11 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Software Engineer</p>
-    <p>linkedin.com/in/davidkhang</p>
     <p>khangnguyen.adelaide@gmail.com</p>
     <p>Adelaide, SA 5000</p>
 
